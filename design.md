@@ -9,12 +9,12 @@
 ## existent research statement
 ### Chinese research
 &ensp;&ensp;In 2021, HuaWei Corporation showing a program language project which name 'CangJie'(仓颉). CangJie is a chinese program language. But up to now, there is still no public release. Therefore, it can be found that the current domestic research and progress in Chinese programming is not very successful. The CangJie language was design for program the application for the Harmony OS.  
-![Picture of CangJie Language](./doc/img/cangjie.jpg)</br>
+![Picture of CangJie Language](https://github.com/ZbcFallen/ChineseProgramSystem/blob/main/doc/img/cangjie.jpg)</br>
 <p align="center">Figure 1.Description of Cangjie language project</p>
 &ensp;&ensp;On the Other side , YiYuYan is a more success project ,unlike the CangJie , the YiYuYan project was released and in ommercial operation.But in the YiYuYan , YiYuYan grammar more like Visual Basic language. In YiYuYan program compiler , it has a surface program part and a code program window. So it can program the surface and logic in the same time. However, its syntax is quite simple and function-oriented direct programming, which limits its expansion of algorithms and functions and the development of third-party libraries.<sup>[1]</sup>
 </br>
 
-![Picture of Yi Language](./doc/img/yiyuyan.jpg)</br>
+![Picture of Yi Language](https://github.com/ZbcFallen/ChineseProgramSystem/blob/main/doc/img/yiyuyan.jpg#pic_center)</br>
 <p align="center">Figure 2. the surface of YiYuYan Compiler</p>
 
 &ensp;&ensp;In the terms of feature extraction of Chinese text has many research and analysis mathod. In 
@@ -27,7 +27,7 @@ Through this way, the chinese text can be transform to a text feature and make a
 &ensp;&ensp;Sencond module is the script runner. This module execute the middle language or mechanism language which is come from the mechanism language transformer.</br>
 &ensp;&ensp;Thrid module is the other language transformer. This module can transform the middle language or script into another programming language. This module work principle is the knowledge graph. By knowledge graph, the middle language can be understand to the mechanism and transform into C/C++ or Java.
 
-![Picture of System design](./doc/img/design.png#pic_center)</br>
+![Picture of System design](https://github.com/ZbcFallen/ChineseProgramSystem/blob/main/doc/img/design.png#pic_center)</br>
 <p align="center">Figure 3. system and module design</p>
 
 
